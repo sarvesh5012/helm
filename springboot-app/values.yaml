@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 382904467012.dkr.ecr.us-east-1.amazonaws.com/springboot-repo-mavenapp
+  repository: 123456789010.dkr.ecr.us-east-1.amazonaws.com/springboot-repo-mavenapp
   pullPolicy: IfNotPresent
   tag: ""
 imagePullSecrets: []
